@@ -31,6 +31,6 @@ setup(
         'pytest-runner',
     ],
     install_requires=[
-        'crosscompute>=0.7.3',
+        'crosscompute>=0.7.7',
     ],
     entry_points=ENTRY_POINTS)
